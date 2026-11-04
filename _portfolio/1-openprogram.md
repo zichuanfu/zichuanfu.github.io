@@ -1,13 +1,13 @@
 ---
 title: "OpenProgram — Self-Programming AI Agent Framework"
-excerpt: "A self-programming AI agent framework for programmable workflows, visual desktop operation, and automated research.<br/><a href='https://openprogram.io/'>openprogram.io</a> · <a href='https://github.com/fzkuji-neo/OpenProgram'>GitHub</a>"
+excerpt: "A self-programming AI agent framework for programmable workflows, visual desktop operation, and automated research.<br/><a href='https://openprogram.io/'>openprogram.io</a>"
 collection: portfolio
 redirect_from:
   - /portfolio/2-gui-agent-harness
   - /portfolio/3-research-agent-harness
 ---
 
-**[openprogram.io](https://openprogram.io/)** · [GitHub](https://github.com/fzkuji-neo/OpenProgram) · AGPL-3.0 · macOS / Linux / Windows
+**[openprogram.io](https://openprogram.io/)** · AGPL-3.0 · macOS / Linux / Windows
 
 The reference implementation of the *Agentic Programming* paradigm introduced in
 [LLM-as-Code](/publication/2026-06-14-LLM-as-Code) (KDD'26 AgenticSE Workshop).
